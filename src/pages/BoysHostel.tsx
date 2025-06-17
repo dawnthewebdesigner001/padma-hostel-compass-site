@@ -72,7 +72,7 @@ const BoysHostel = () => {
                 <strong>Map Embed Placeholder</strong>
               </div>
               <p className="text-gray-500">
-                <!-- Paste Boys Hostel Google Map Embed Link Here -->
+                {/* Paste Boys Hostel Google Map Embed Link Here */}
               </p>
               <p className="text-sm text-gray-400 mt-4">
                 Replace this section with your Google Maps embed code

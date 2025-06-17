@@ -76,7 +76,7 @@ const GirlsHostel = () => {
                   <strong>Map Embed Placeholder 1</strong>
                 </div>
                 <p className="text-gray-500">
-                  <!-- Map 1: Main Building -->
+                  {/* Map 1: Main Building */}
                 </p>
                 <p className="text-sm text-gray-400 mt-4">
                   Replace this section with your Google Maps embed code for Main Building
@@ -93,7 +93,7 @@ const GirlsHostel = () => {
                   <strong>Map Embed Placeholder 2</strong>
                 </div>
                 <p className="text-gray-500">
-                  <!-- Map 2: Girls Hostel Extension / Dining Area / etc. -->
+                  {/* Map 2: Girls Hostel Extension / Dining Area / etc. */}
                 </p>
                 <p className="text-sm text-gray-400 mt-4">
                   Replace this section with your Google Maps embed code for Extension/Dining Area
